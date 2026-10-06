@@ -1,0 +1,49 @@
+# The Depth Mark
+
+> The Depth Mark is an independent digital studio that designs and builds award-level websites with motion, and adds SEO, answer engine optimisation (AEO) and AI automation so brands get found, chosen and remembered.
+
+Designed to be felt. Built to be found. The studio is independent, based in Riga, Latvia, and works with brands worldwide, including the United States. Every project is designed, built and launched in house, on Framer, Webflow, Next.js or a headless CMS.
+
+How to work with the studio: book a free 30 minute call through the contact page (https://thedepthmark.com/contact/). On the first call the studio explains how it would approach the project and what it would take.
+
+## Services
+- Brand & Strategy: Positioning, identity and messaging that give your site something worth saying before a pixel moves.
+- Web Design: Editorial layouts, bold typography and interaction design, shaped in Figma and proven in the browser.
+- Motion & 3D: Scroll stories, micro-interactions and real-time WebGL scenes that make every visit feel directed.
+- Creative Development: Hand-built front ends on Next.js, Webflow or custom stacks that load fast and hold up on every screen.
+- AI Automation: Chat assistants, lead routing and content workflows wired into your site, so it keeps working after hours.
+- SEO & AEO: Technical SEO and answer engine optimisation that get you found on Google and cited by ChatGPT, Perplexity and AI Overviews.
+- Launch & Care: We monitor, refine and evolve every site after launch, so it keeps performing as your brand grows.
+
+## Pages
+- [Homepage](https://thedepthmark.com/): services, process, case studies, testimonials and FAQ
+- [Contact](https://thedepthmark.com/contact/): start a project and book a free call
+- [Case studies](https://thedepthmark.com/case-studies/): every website the studio has designed and built
+- [News & Insights](https://thedepthmark.com/blog/): articles on web design, development, SEO and AI
+- [Sitemap](https://thedepthmark.com/sitemap/): every page of the website
+
+## Case studies
+- [Varga](https://thedepthmark.com/case-studies/graphizo/): A fashion and still-life photographer whose pictures refuse to stand still, and a portfolio that finally moves with them.
+- [Rossi](https://thedepthmark.com/case-studies/radario/): An independent hair stylist in Milan with a loyal client book and no place online that looked like her work.
+- [OneFin](https://thedepthmark.com/case-studies/northbank/): A finance platform that unifies spending, payments, investing and forecasting, with a website that made it sound complicated.
+- [Reels](https://thedepthmark.com/case-studies/radius/): A creator agency that turns real people into a brand’s best sales team, with a website that looked like every other agency.
+- [SphereAI](https://thedepthmark.com/case-studies/dashmark/): A generative AI platform for writing, coding and creative work, launching into a market where every product promises the same.
+- [Wilun](https://thedepthmark.com/case-studies/cooperative/): A payments app that makes business finance simple, with a launch site that had to feel as easy as the product.
+- [Helora](https://thedepthmark.com/case-studies/maple/): A therapy and wellness practice that helps people find calm, with a website that felt more like a clinic than a safe space.
+- [NexGo](https://thedepthmark.com/case-studies/leapyear/): A telemedicine platform connecting patients with real doctors in minutes, with a website that had to earn trust at first glance.
+
+## Articles
+- [How AI is changing the way websites are built](https://thedepthmark.com/blog/how-ai-is-changing-web-development/): What AI speeds up in modern web development, what it changes for clients, and what still needs a designer’s eye.
+
+## FAQ
+- Do we need a full brief before we talk to you? No. Most clients come with a feeling that their site does not match their ambition. Our discovery turns that feeling into a clear creative direction, so you do not need a plan before you start.
+- How fast can we see something real? Usually within two weeks. We pick one key screen, design it, animate it and put a live prototype in your browser, so you can feel the direction before you commit to the full build.
+- Can our team edit the site after launch? Yes. We build on a CMS your team can use without us, whether that is Webflow, Sanity or a custom setup. Pages, posts and images stay easy to change, while the design system keeps everything on brand. Every template comes with a short recorded walkthrough, so new people on your team can pick it up in minutes.
+- Will the motion slow the site down or hurt SEO? No, we design for both. Animations are built with performance budgets, images and video are sized for every screen, and heavy 3D only loads when it is needed. Every page also ships with clean markup, structured data and fast load times, so Google and AI assistants such as ChatGPT can read it and recommend it. We check every page on real phones before launch.
+- Are we locked in after the project? No. You own the design files, the code, the accounts and the documentation. If you want to take everything in house or hand it to another team, that takes a handover call, not a negotiation.
+- What happens after launch? We stay close. Every launch includes thirty days of care: fixes, small refinements and a performance review once real visitors arrive. After that you can keep us on a monthly retainer for new pages, campaigns and experiments, or run it yourself with the guides we leave behind.
+
+## Optional
+- [Full text for language models](https://thedepthmark.com/llms-full.txt)
+- [Privacy policy](https://thedepthmark.com/legal/privacy-policy/)
+- [Terms of service](https://thedepthmark.com/legal/terms-of-service/)
