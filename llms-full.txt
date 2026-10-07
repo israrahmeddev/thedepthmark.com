@@ -63,7 +63,7 @@ We stay close. Every launch includes thirty days of care: fixes, small refinemen
 
 ## Case study: Varga (Photography Portfolio)
 
-URL: https://thedepthmark.com/case-studies/graphizo/
+URL: https://thedepthmark.com/case-studies/varga/
 
 A fashion and still-life photographer whose pictures refuse to stand still, and a portfolio that finally moves with them.
 
@@ -73,7 +73,7 @@ Her old site was a grid of same-size thumbnails, so a magazine editorial looked 
 
 ## Case study: Rossi (Stylist Brand Site)
 
-URL: https://thedepthmark.com/case-studies/radario/
+URL: https://thedepthmark.com/case-studies/rossi/
 
 An independent hair stylist in Milan with a loyal client book and no place online that looked like her work.
 
@@ -83,7 +83,7 @@ New clients found her through friends and a busy Instagram grid, then had to sen
 
 ## Case study: OneFin (SaaS Website)
 
-URL: https://thedepthmark.com/case-studies/northbank/
+URL: https://thedepthmark.com/case-studies/onefin/
 
 A finance platform that unifies spending, payments, investing and forecasting, with a website that made it sound complicated.
 
@@ -93,7 +93,7 @@ Every product had its own page, its own style and its own jargon. Visitors bounc
 
 ## Case study: Reels (Agency Website)
 
-URL: https://thedepthmark.com/case-studies/radius/
+URL: https://thedepthmark.com/case-studies/reels/
 
 A creator agency that turns real people into a brand’s best sales team, with a website that looked like every other agency.
 
@@ -103,7 +103,7 @@ Their old site was a services list and a contact form. Brands could not see the 
 
 ## Case study: SphereAI (AI Product Site)
 
-URL: https://thedepthmark.com/case-studies/dashmark/
+URL: https://thedepthmark.com/case-studies/sphereai/
 
 A generative AI platform for writing, coding and creative work, launching into a market where every product promises the same.
 
@@ -113,7 +113,7 @@ The product could write, code and generate images, but the old landing page list
 
 ## Case study: Wilun (App Landing Page)
 
-URL: https://thedepthmark.com/case-studies/cooperative/
+URL: https://thedepthmark.com/case-studies/wilun/
 
 A payments app that makes business finance simple, with a launch site that had to feel as easy as the product.
 
@@ -123,7 +123,7 @@ Finance apps all look alike: blue gradients, stock photos and dense tables. Wilu
 
 ## Case study: Helora (Wellness Website)
 
-URL: https://thedepthmark.com/case-studies/maple/
+URL: https://thedepthmark.com/case-studies/helora/
 
 A therapy and wellness practice that helps people find calm, with a website that felt more like a clinic than a safe space.
 
@@ -133,7 +133,7 @@ The old site led with forms, prices and clinical language. People already anxiou
 
 ## Case study: NexGo (Healthcare Platform)
 
-URL: https://thedepthmark.com/case-studies/leapyear/
+URL: https://thedepthmark.com/case-studies/nexgo/
 
 A telemedicine platform connecting patients with real doctors in minutes, with a website that had to earn trust at first glance.
 

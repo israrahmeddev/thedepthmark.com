@@ -23,14 +23,14 @@ How to work with the studio: book a free 30 minute call through the contact page
 - [Sitemap](https://thedepthmark.com/sitemap/): every page of the website
 
 ## Case studies
-- [Varga](https://thedepthmark.com/case-studies/graphizo/): A fashion and still-life photographer whose pictures refuse to stand still, and a portfolio that finally moves with them.
-- [Rossi](https://thedepthmark.com/case-studies/radario/): An independent hair stylist in Milan with a loyal client book and no place online that looked like her work.
-- [OneFin](https://thedepthmark.com/case-studies/northbank/): A finance platform that unifies spending, payments, investing and forecasting, with a website that made it sound complicated.
-- [Reels](https://thedepthmark.com/case-studies/radius/): A creator agency that turns real people into a brand’s best sales team, with a website that looked like every other agency.
-- [SphereAI](https://thedepthmark.com/case-studies/dashmark/): A generative AI platform for writing, coding and creative work, launching into a market where every product promises the same.
-- [Wilun](https://thedepthmark.com/case-studies/cooperative/): A payments app that makes business finance simple, with a launch site that had to feel as easy as the product.
-- [Helora](https://thedepthmark.com/case-studies/maple/): A therapy and wellness practice that helps people find calm, with a website that felt more like a clinic than a safe space.
-- [NexGo](https://thedepthmark.com/case-studies/leapyear/): A telemedicine platform connecting patients with real doctors in minutes, with a website that had to earn trust at first glance.
+- [Varga](https://thedepthmark.com/case-studies/varga/): A fashion and still-life photographer whose pictures refuse to stand still, and a portfolio that finally moves with them.
+- [Rossi](https://thedepthmark.com/case-studies/rossi/): An independent hair stylist in Milan with a loyal client book and no place online that looked like her work.
+- [OneFin](https://thedepthmark.com/case-studies/onefin/): A finance platform that unifies spending, payments, investing and forecasting, with a website that made it sound complicated.
+- [Reels](https://thedepthmark.com/case-studies/reels/): A creator agency that turns real people into a brand’s best sales team, with a website that looked like every other agency.
+- [SphereAI](https://thedepthmark.com/case-studies/sphereai/): A generative AI platform for writing, coding and creative work, launching into a market where every product promises the same.
+- [Wilun](https://thedepthmark.com/case-studies/wilun/): A payments app that makes business finance simple, with a launch site that had to feel as easy as the product.
+- [Helora](https://thedepthmark.com/case-studies/helora/): A therapy and wellness practice that helps people find calm, with a website that felt more like a clinic than a safe space.
+- [NexGo](https://thedepthmark.com/case-studies/nexgo/): A telemedicine platform connecting patients with real doctors in minutes, with a website that had to earn trust at first glance.
 
 ## Articles
 - [How AI is changing the way websites are built](https://thedepthmark.com/blog/how-ai-is-changing-web-development/): What AI speeds up in modern web development, what it changes for clients, and what still needs a designer’s eye.
